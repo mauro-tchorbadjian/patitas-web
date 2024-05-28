@@ -147,3 +147,10 @@ nav ul li a:hover {
     background-color: yellowgreen;
     color: white;
 }
+#main-4 {
+    padding-bottom: 26px;
+    align-items: center;
+}
+.form-group {
+    margin-bottom: 1.5rem;
+}
