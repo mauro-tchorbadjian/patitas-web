@@ -1,0 +1,15 @@
+// Estilos de los botones //
+.btn-custom {
+    background-color: #3FB8A7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+        background-color: yellowgreen;
+        color: white;
+    }
+}
