@@ -163,7 +163,7 @@ nav ul li a:hover {
     padding-bottom: 24px;
 }
 .hero-image-1 {
-    background-image: url('/assets/hero-img.jpg');
+    background-image: url('../assets/hero-img.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -171,7 +171,7 @@ nav ul li a:hover {
     color: white;
 }
 .hero-image-2 {
-    background-image: url('/assets/hero-img-2.jpg');
+    background-image: url('../assets/hero-img-2.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -179,7 +179,7 @@ nav ul li a:hover {
     color: white;
 }
 .hero-image-3 {
-    background-image: url('/assets/hero-img-3.jpg');
+    background-image: url('../assets/hero-img-3.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -187,7 +187,7 @@ nav ul li a:hover {
     color: white;
 }
 .hero-image-4 {
-    background-image: url('/assets/hero-img-4.jpg');
+    background-image: url('../assets/hero-img-4.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;

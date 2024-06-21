@@ -56,20 +56,20 @@ p {
 
 .hero-image-1 {
     @extend .hero-image;
-    background-image: url('/assets/hero-img.jpg');
+    background-image: url('../assets/hero-img.jpg');
 }
 
 .hero-image-2 {
     @extend .hero-image;
-    background-image: url('/assets/hero-img-2.jpg');
+    background-image: url('../assets/hero-img-2.jpg');
 }
 
 .hero-image-3 {
     @extend .hero-image;
-    background-image: url('/assets/hero-img-3.jpg');
+    background-image: url('../assets/hero-img-3.jpg');
 }
 
 .hero-image-4 {
     @extend .hero-image;
-    background-image: url('/assets/hero-img-4.jpg');
+    background-image: url('../assets/hero-img-4.jpg');
 }
