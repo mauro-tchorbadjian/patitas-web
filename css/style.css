@@ -43,6 +43,10 @@ a{
     align-items: center;
     justify-content: space-between;
 }
+#main-image {
+    margin: 24px;
+}
+
 #main-2{
     background-color: #B0DEEB;
     display: flex;

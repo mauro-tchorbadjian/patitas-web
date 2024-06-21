@@ -37,7 +37,9 @@ p {
     @extend #main-1;
     padding-bottom: 26px;
 }
-
+#main-image {
+    margin: 24px;
+}
 @media (max-width: 767.98px) {
     #nav {
         display: none;
