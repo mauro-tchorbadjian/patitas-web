@@ -1,7 +1,5 @@
 // Contiene los estilos de la navbar superior // 
-@mixin font-style() {
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 nav {
     @include font-style;
     font-size: small;

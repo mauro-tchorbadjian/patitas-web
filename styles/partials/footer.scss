@@ -1,7 +1,5 @@
 // Sección footer //
-@mixin font-style() {
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 .footer {
     @include font-style;
     padding-bottom: 24px;
