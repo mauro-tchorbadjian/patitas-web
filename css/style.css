@@ -35,16 +35,15 @@ a{
 }
 #main-image{
     height: 300px;
+    margin: 1rem;
+    align-items: center;
 }
 #main-1{
     padding: 2rem;
     display: flex;
     background-color: #e5e5e5;
     align-items: center;
-    justify-content: space-between;
-}
-#main-1 div col .column1 {
-    margin-bottom: 2rem;
+    justify-content: center;
 }
 
 #main-2{
@@ -52,13 +51,14 @@ a{
     display: flex;
     align-items: center;
     padding: 2rem;
+    justify-content: center;
 }
 #main-3{
     padding: 2rem;
     display: flex;
     background-color: #e5e5e5;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 #gallery-image{
     height: 250px;
