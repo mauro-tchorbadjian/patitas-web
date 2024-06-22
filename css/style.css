@@ -137,6 +137,12 @@ nav ul li a:hover {
 .footer ul li{
     list-style:none;
 }
+.footer .container .social-icons {
+    display: flex;
+}
+.footer .container .page-links {
+    display: flex;
+}
 .btn-custom {
     background-color: #3FB8A7;
     color: white;
