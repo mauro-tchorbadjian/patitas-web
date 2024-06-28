@@ -18,9 +18,7 @@
 
 3. Se eliminó un componente <style> que estaba suelto y sin uso en los HTML.
 
-4. Se agregó la etiqueta <meta name="description" content="Adopcion, transito y asistencia de mascotas sin hogar"> para ayudar al posicionamiento SEO.
-
-5. Se agregó la etiqueta <meta name="keywords" content="mascotas, adopcion, gato, perro, asistencia, transito, hogar, refugio, donaciones, ong, buenos aires, argentina, zona sur"> para ayudar al posicionamiento SEO.
+4. Se agregaron dos etiquetas para ayudar al posicionamiento SEO.
 
 6. Se intentó ajustar el botón de Whatsapp para mobile, pero sigue mostrándose por fuera de la página. De acuerdo a una breve investigación, esto puede deberse a un bug del Z-index en mobile.
 
