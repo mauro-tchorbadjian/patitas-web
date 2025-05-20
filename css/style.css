@@ -236,3 +236,14 @@ nav ul li a:hover {
 .whatsapp-icon:hover {
     transform: scale(1.1) rotate(20deg);
 }
+
+.modal-title {
+    color: #25d366;
+    font-weight: 700;
+}
+
+.modal-body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #3FB8A7;
+    color:white;
+}
